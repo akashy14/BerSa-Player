@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="BerSa Player Logo" width="100"/>
+  <img src="https://github.com/akashy14/BerSa-Player/commit/08042939261e5d8ee1d0403802d56a1ce482c6ed" alt="BerSa Player Logo" width="100"/>
   <h1>🎶 BerSa Player</h1>
   <p><b>Le lecteur multimédia révolutionnaire</b> — Audio, Vidéo, Cloud, IA, Partage, tout-en-un.</p>
 
