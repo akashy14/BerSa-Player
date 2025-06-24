@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/playlistdialog.o
+release/settingdialog.o
+release/sound.o
+release/spleshcreen.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_playlistdialog.o
+release/moc_settingdialog.o
+release/moc_sound.o
+release/moc_spleshcreen.o

@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/playlistdialog.o
+debug/settingdialog.o
+debug/sound.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_playlistdialog.o
+debug/moc_settingdialog.o
+debug/moc_sound.o
